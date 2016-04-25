@@ -1,0 +1,9 @@
+C:\Users\Tofer\Desktop\Projects\Fraction Game\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Tofer\Desktop\Projects\Fraction Game\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Tofer\Desktop\Projects\Fraction Game\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Tofer\Desktop\Projects\Fraction Game\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Tofer\Desktop\Projects\Fraction Game\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Calculator.resources
+C:\Users\Tofer\Desktop\Projects\Fraction Game\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Tofer\Desktop\Projects\Fraction Game\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Tofer\Desktop\Projects\Fraction Game\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Tofer\Desktop\Projects\Fraction Game\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
