@@ -118,6 +118,17 @@ namespace WindowsFormsApplication2
                         denominator /= temp;
                         break;
                     case "÷":
+                        if(b == 0)
+                        {
+                            MessageBox.Show("You cannot divide by 0!");
+                            break;
+                        }
+                        numerator = (cToLCM * a) * (dToLCM * d);
+                        denominator = (cToLCM * c) * (dToLCM * b);
+
+                        temp = gcf(numerator, denominator);
+                        numerator /= temp;
+                        denominator /= temp;
                         break;
                     default:
                         MessageBox.Show("Program Broke");

@@ -6,3 +6,4 @@ C:\Users\Tofer\Desktop\Projects\Fraction Game\WindowsFormsApplication2\obj\Relea
 C:\Users\Tofer\Desktop\Projects\Fraction Game\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
 C:\Users\Tofer\Desktop\Projects\Fraction Game\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
 C:\Users\Tofer\Desktop\Projects\Fraction Game\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb
+C:\Users\Tofer\Desktop\Projects\Fraction Game\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
